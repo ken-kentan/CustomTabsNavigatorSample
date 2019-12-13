@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomTabsNavigatorSample</string>
+
+    <string name="url_google">https://www.google.com</string>
+</resources>
